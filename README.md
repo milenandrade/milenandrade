@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Juniour Front End Developer and Software Engineering Student.
+    I'm a Junior Front End Developer and Software Engineering Student.
   </p>
   
 </div>
